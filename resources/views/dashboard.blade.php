@@ -12,6 +12,7 @@
                     {{ __("You're logged in!") }}
                 </div>
             </div>
+            <livewire:Report/>
         </div>
     </div>
 </x-app-layout>
